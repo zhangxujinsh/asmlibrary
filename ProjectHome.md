@@ -1,0 +1,1 @@
+**Please goto http://blog.greatyao.me/2012/05/06/Introduction-to-ASMLibrary/ to download the library.**
